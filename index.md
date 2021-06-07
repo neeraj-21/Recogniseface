@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Recogniseface 
 
-You can use the [editor on GitHub](https://github.com/neeraj-21/recogniseface/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is an introduction page for a face recognition based authentication system product.
+This is an omngoing project.
+You can stay tuned to see keep a watch on the progress of the interesting updates product.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
 
-### Markdown
+This is a face recognition project I started at the start of the COVID pandemic around Aug 2020.
+I'm planning to convert it into a SaaS product to make the web/mobile app development fast and easy.
+The end product will help developers to easily integrate authentication system in their web/mobile apps 
+by simply integrating thip at the backend and they don't have to worry about tech stack and development hassles.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Following are the screenshots explaining the workflow implemented so far.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**_The identification info entered._**
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1a.png)
 
-### Jekyll Themes
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neeraj-21/recogniseface/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**_Face is registered against the earlier identitification info._**
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/2a.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**_Face is tracked/identified and ID associated with it is displayed._**
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/2.png)
+
+**_Process repeated for a diffewrent person_**
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/3a.png)
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/3.png)
+
+**_Different person's face is identified and his ID is tracked (which is different from earlier person)_**
+![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/4.png)
+
+
