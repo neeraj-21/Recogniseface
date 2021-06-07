@@ -18,6 +18,7 @@ by simply integrating thip at the backend and they don't have to worry about tec
 **_The identification info entered._**
 
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1a.png)
+![Image](1a.png)
 
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1.png)
 
