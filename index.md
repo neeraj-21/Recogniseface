@@ -12,14 +12,13 @@ The end product will help developers to easily integrate authentication system i
 by simply integrating thip at the backend and they don't have to worry about tech stack and development hassles.
 
 
-```markdown
-Following are the screenshots explaining the workflow implemented so far.
-```
+## Following are the screenshots explaining the workflow implemented so far.
+
 
 **_The identification info entered._**
-![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1a.png)
+[Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1a.png)
 
-![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1.png)
+[Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/1.png)
 
 
 **_Face is registered against the earlier identitification info._**
