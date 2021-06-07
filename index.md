@@ -27,13 +27,15 @@ by simply integrating thip at the backend and they don't have to worry about tec
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/2a.png)
 
 **_Face is tracked/identified and ID associated with it is displayed._**
+
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/2.png)
 
 **_Process repeated for a diffewrent person_**
+
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/3a.png)
+
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/3.png)
 
 **_Different person's face is identified and his ID is tracked (which is different from earlier person)_**
+
 ![Image](https://github.com/neeraj-21/recogniseface/blob/gh-pages/4.png)
-
-
