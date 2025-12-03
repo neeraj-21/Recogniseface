@@ -6,7 +6,7 @@ You can visit this page to stay tuned to the future updates.
 
 ## About
 
-This is a face recognition project I started at the start of the COVID pandemic around Aug 2020.
+This is a face recognition project I started around Aug 2020 during the COVID pandemic.
 I'm planning to convert it into a SaaS product to make the web/mobile app development fast and easy.
 The end product will help developers to easily integrate authentication system in their web/mobile apps 
 by simply integrating this at the backend and they don't have to worry about tech stack and development hassles
