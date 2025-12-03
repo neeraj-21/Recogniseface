@@ -2,7 +2,7 @@
 
 This is an introduction page for a face recognition as authentication product.
 This is an ongoing project.
-You can stay tuned to keep a watch on the progress of the interesting updates.
+You can visit this page to stay tuned to the future updates.
 
 ## About
 
